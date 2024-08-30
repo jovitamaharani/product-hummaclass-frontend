@@ -1478,7 +1478,7 @@
                         <div class="col-xl-3 col-md-6">
                             <div class="blog__post-item shine__animate-item">
                                 <div class="blog__post-thumb">
-                                    <a href="blog-details.html" class="shine__animate-link"><img src="assets/img/blog/blog_post03.jpg" alt="img"></a>
+                                    <a href="blog-details.html" class="shine__animate-link"><img src="{{ asset('assets/img/blog/blog_post03.jpg') }}" alt="img"></a>
                                     <a href="blog.html" class="post-tag">Marketing</a>
                                 </div>
                                 <div class="blog__post-content">
@@ -1495,7 +1495,7 @@
                         <div class="col-xl-3 col-md-6">
                             <div class="blog__post-item shine__animate-item">
                                 <div class="blog__post-thumb">
-                                    <a href="blog-details.html" class="shine__animate-link"><img src="assets/img/blog/blog_post04.jpg" alt="img"></a>
+                                    <a href="blog-details.html" class="shine__animate-link"><img src="{{ asset('assets/img/blog/blog_post04.jpg') }}" alt="img"></a>
                                     <a href="blog.html" class="post-tag">Marketing</a>
                                 </div>
                                 <div class="blog__post-content">
